@@ -7,7 +7,7 @@ permalink: /
 
 <hr>
 
-Hello! I'm Anugrah. Among other things, I'm a student at MIT majoring in computer science and engineering.
+Hello! I'm Anugrah. Among other things, I'm a student at MIT majoring in Computer Science and Engineering. I graduated from undergrad in 2024 and am currently a masters student.
 
 
 

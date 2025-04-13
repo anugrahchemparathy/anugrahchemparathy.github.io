@@ -55,4 +55,4 @@ Here are some classes I took while at MIT:
 - 18.600 - Probability and Random Variables
     - before I took 18.600 I had absolutely zero understanding of probability. It's funny to think how far I've come since then
 
-P.S. If you're looking for my chemistry stuff, you can find it [here](https://www.mit.edu/~anugrah/chem.html) on my old website, although I'll probably move it over shortly.
+P.S. If you're looking for my chemistry stuff, you can find it [here](/chem), or on my [old website](https://www.mit.edu/~anugrah/chem.html) until it goes down post-graduation.

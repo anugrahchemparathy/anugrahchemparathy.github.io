@@ -16,19 +16,20 @@ I originally created this website to equally and freely distribute all the inter
   * Here's some advice if you are starting to feel like USNCO questions are becoming repetitive/too easy. It's not applicable to beginners.
 * Join the USA Chemistry Olympiads Discord Server! The link is on their [website](https://chem.isodn.org/).
   * The server hosts many competitions every year including a Mock USNCO, Mock IChO, and several other original format competitions like CODS-CT and ACOT.
-* Edward Jin's [website](http://www.mit.edu/~ehjin/chem.html) is another excellent resource!
+* Edward Jin's [website](http://www.mit.edu/~ehjin/chem.html) is another excellent resource! Unfortunately it's no longer online now that Edward has graudated. Maybe you could try the wayback machine.
 * [How to Draw Organic Schemes](https://docs.google.com/document/d/1WoBLcxdby1i8O45ySHayvTTnIZUQPakcO_SS6lY9Em4/edit)
   * An introduction to tools like MarvinSketch and Draw.io which you can use to draw your own organic puzzles (and get a degree in graphic design!)
 
 ### Chemistry Problems
 
-* **New Arrivals**
-    * [Camp 2021 - Office Hours 0: [Hard/Very Hard] organic problems](https://drive.google.com/file/d/1Yr7Xi_8xkBrbN4MQEztnjFsesEJ9PTWC/view?usp=sharing)
-    * [Camp 2021 - Office Hours 1: Intro to camp style organic](https://drive.google.com/file/d/1I7OetpBCYGDnGKH9jLzZneXgVMO5vxcE/view?usp=sharing)
-    * [Camp 2021 - Office Hours 3: MCB Compilation](https://drive.google.com/file/d/16OIgIgvYUu538p_iMYOsRvwENsDg8-Ka/view?usp=sharing)
-    * [Camp 2021 - Office Hours 4: Quantum Models](https://drive.google.com/file/d/1iKD8z1ffSdCrCa9jOlBsFZeiZmO0unxN/view?usp=sharing)
-    * [Camp 2021 - Office Hours 5: Titrations](https://drive.google.com/file/d/16OIgIgvYUu538p_iMYOsRvwENsDg8-Ka/view?usp=sharing)
-    * [Camp 2021 - Extra Problem: Artemisinin](https://drive.google.com/file/d/1tx-WZqPc7mwFKy5ov2lOAn14fcGwBWjl/view?usp=sharing)
+* **Handouts**
+    * Handouts I wrote while peer mentoring at camp in 2021
+        * [Camp 2021 - Office Hours 0: [Hard/Very Hard] organic problems](https://drive.google.com/file/d/1Yr7Xi_8xkBrbN4MQEztnjFsesEJ9PTWC/view?usp=sharing)
+        * [Camp 2021 - Office Hours 1: Intro to camp style organic](https://drive.google.com/file/d/1I7OetpBCYGDnGKH9jLzZneXgVMO5vxcE/view?usp=sharing)
+        * [Camp 2021 - Office Hours 3: MCB Compilation](https://drive.google.com/file/d/16OIgIgvYUu538p_iMYOsRvwENsDg8-Ka/view?usp=sharing)
+        * [Camp 2021 - Office Hours 4: Quantum Models](https://drive.google.com/file/d/1iKD8z1ffSdCrCa9jOlBsFZeiZmO0unxN/view?usp=sharing)
+        * [Camp 2021 - Office Hours 5: Titrations](https://drive.google.com/file/d/16OIgIgvYUu538p_iMYOsRvwENsDg8-Ka/view?usp=sharing)
+        * [Camp 2021 - Extra Problem: Artemisinin](https://drive.google.com/file/d/1tx-WZqPc7mwFKy5ov2lOAn14fcGwBWjl/view?usp=sharing)
 
 
 * **Original Problems**
