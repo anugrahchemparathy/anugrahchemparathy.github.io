@@ -22,6 +22,8 @@ I originally created this website to equally and freely distribute all the inter
 
 ### Chemistry Problems
 
+## New Arrivals
+
 * **Handouts**
     * Handouts I wrote while peer mentoring at camp in 2021
         * [Camp 2021 - Office Hours 0: [Hard/Very Hard] organic problems](https://drive.google.com/file/d/1Yr7Xi_8xkBrbN4MQEztnjFsesEJ9PTWC/view?usp=sharing)
@@ -31,6 +33,12 @@ I originally created this website to equally and freely distribute all the inter
         * [Camp 2021 - Office Hours 5: Titrations](https://drive.google.com/file/d/16OIgIgvYUu538p_iMYOsRvwENsDg8-Ka/view?usp=sharing)
         * [Camp 2021 - Extra Problem: Artemisinin](https://drive.google.com/file/d/1tx-WZqPc7mwFKy5ov2lOAn14fcGwBWjl/view?usp=sharing)
 
+* **Original Problems**
+    * Physical Chemistry
+        * [Halogen Cycle Reaction](https://drive.google.com/file/d/1vwox31XNxDjsKjONBtHEw9X_v_9EwHwP/view?usp=sharing) and [solutions](https://drive.google.com/file/d/1ATRPkooPBCkgSkasAgfjBmzG-zPacC31/view?usp=sharing)
+            * I was very proud of this question
+
+## General
 
 * **Original Problems**
   * Physical Chemistry
@@ -51,6 +59,8 @@ I originally created this website to equally and freely distribute all the inter
     * [Mysterious Acetates](https://drive.google.com/file/d/1hwS49vrIExAWCvvo9PctjRVnHggzsLxx/view?usp=sharing)
     * [Isothermal Titration Calorimetry](https://drive.google.com/file/d/1oKKhoJqKOb9bMqgbABiYarAQsuIeIddv/view?usp=sharing)
         * my favorite question!
+    * [Chromium Hydrolysis](https://drive.google.com/file/d/1IJrJXYZ88VaZalz2gF3fyc4OP4YwrTc2/view?usp=sharing) and [solutions](https://drive.google.com/file/d/1yH0mJRxiww8a29NWNy_UOHDVxI0UbGCl/view?usp=sharing)
+        * a great MCB exercise
   * Mock IChO - Written for a proctored competition on the CODS discord server in collaboration with Alec Zhu.
     * The [Problems](https://drive.google.com/file/d/1_nakIH4fkfkt-AzsPY5Af9EqeFc1z7zG/view?usp=sharing)
     * The [Solutions](https://drive.google.com/file/d/1-IdW8NLRNnkEfthNdYwH3N7jjo5kEspt/view?usp=sharing)
