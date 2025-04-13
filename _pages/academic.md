@@ -6,6 +6,8 @@ permalink: /academic/
 
 I'm interested in a mix of machine learning, applied math stuff, and systems programming.
 
+I write up a lot of the random conversations I have. Some of those writeups are [here](/writeups).
+
 Here are some classes I took while at MIT:
 
 ## Fall 2024
@@ -19,14 +21,15 @@ Here are some classes I took while at MIT:
 
 ## Fall 2023
 - 6.106 (6.172) - Performance Software Engineering
-    - code go zooooom.
+    - speed limit infinity
+    - one of the classes ever made    
 
 ## Spring 2023
 - 6.8200 (6.484) - Sensorimotor Learning
 - 6.1800 (6.033) - System Design
 - 6.8301 (6.819) - Computer Vision
 - CMS.300 - Extending the Museum
-    - I got to see the original Theseus maze made by claude shannon sitting in the back of the classroom unlabeled (before it eventually got put on display in the MIT museum)
+    - I got to see the original Theseus maze made by claude shannon sitting unlabeled in the back of the classroom (before it eventually got put on display in the MIT museum)
 
 
 ## Fall 2022
