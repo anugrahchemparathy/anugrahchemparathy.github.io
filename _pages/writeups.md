@@ -4,6 +4,12 @@ title: Musings from the Widget Factory
 permalink: /writeups/
 ---
 
+<figure class="image-with-caption">
+  <img src="/assets/images/widget_factory.jpg">
+  <figcaption>Deliberations amongst widget-producers</figcaption>
+</figure>
+
+
 ## Widget Factory Reading Group
 Utils in production.
 
