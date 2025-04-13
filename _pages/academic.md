@@ -51,3 +51,5 @@ Here are some classes I took while at MIT:
 - 6.215 - Optimization Methods
 - 18.600 - Probability and Random Variables
     - before I took 18.600 I had absolutely zero understanding of probability. It's funny to think how far I've come since then
+
+P.S. If you're looking for my chemistry stuff, you can find it [here](https://www.mit.edu/~anugrah/chem.html) on my old website, although I'll probably move it over shortly.
