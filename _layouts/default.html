@@ -1,0 +1,46 @@
+<!-- _layouts/default.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{{ page.title | default: "Anugrahville" }}</title>
+    <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
+    
+
+</head>
+
+<body>
+    <div class="wrapper">
+        <div class="navbar container">
+            {% if site.ins_logo %}
+                <img id="ins-logo" src="{{ site.ins_logo }}" />
+            {% endif %}
+            <a id="author-name" class="alignable pull-left" href="{{ site.url }}{{ site.baseurl }}">{{ site.title }}</a>
+            <ul id="navlist" class="alignable pull-right navbar-ul">
+                {% for x in site.nav %}
+                    <li class="alignable pull-left nav-list">
+                        <a href="{{ x.link }}">{{ x.name }}</a>
+                        {% unless forloop.last %}/{% endunless %}
+                    </li>
+                {% endfor %}
+            </ul>
+        </div>
+
+
+
+
+
+        <div id="content">
+            {{ content }}
+        </div>
+
+
+        {% if site.footer == true %}
+        <hr />
+        <p style="text-align: center; margin-bottom: 10px">
+            <a href="{{ site.footer_url }}" style="color: black"><small>{{ site.footer_text }}</small></a>
+        </p>
+        {% endif %}
+    </div>
+
+</body>
+</html>

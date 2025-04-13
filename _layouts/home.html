@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+{% if page.use_canvas %}
+<link rel="stylesheet" type="text/css" href="{{ '/assets/css/style.css' | relative_url }}">
+<script src="{{ '/assets/js/canvasObjects.js' | relative_url }}"></script>
+<script src="{{ '/assets/js/tools.js' | relative_url }}"></script>
+<script src="{{ '/assets/js/matrixTools.js' | relative_url }}"></script>
+<!-- Canvas script will be included at the end of body -->
+{% endif %}
+
+
+<div class="home">
+    <div id="content">
+        {{ content }}
+    </div>
+
+    {% if page.use_canvas %}
+    <script src="{{ '/assets/js/newCanvas.js' | relative_url }}" defer></script>
+    {% endif %}
+</div>
