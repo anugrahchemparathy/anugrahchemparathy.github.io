@@ -2,8 +2,24 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <style>
+        .favicon-icon {
+          height: 4em;
+          margin-right: 5px;
+          vertical-align: middle;
+          filter: grayscale(100%);
+          transition: filter 0.3s ease;
+        }
+        
+        #author-name:hover .favicon-icon {
+          filter: grayscale(0%);
+        }
+      </style>
+
     <title>{{ page.title | default: "Anugrahville" }}</title>
     <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
+    <link rel="icon" type="image/png" href="/assets/images/favicon.png">
+
     
 
 </head>
@@ -14,7 +30,11 @@
             {% if site.ins_logo %}
                 <img id="ins-logo" src="{{ site.ins_logo }}" />
             {% endif %}
-            <a id="author-name" class="alignable pull-left" href="{{ site.url }}{{ site.baseurl }}">{{ site.title }}</a>
+            <!-- <a id="author-name" class="alignable pull-left" href="{{ site.url }}{{ site.baseurl }}">{{ site.title }}</a> -->
+            <a id="author-name" class="alignable pull-left" href="{{ '/' | relative_url }}">
+                <img src="{{ site.baseurl }}/assets/images/favicon.png" alt="favicon" class="favicon-icon">
+                {{ site.title }}
+            </a>
             <ul id="navlist" class="alignable pull-right navbar-ul">
                 {% for x in site.nav %}
                     <li class="alignable pull-left nav-list">
@@ -37,7 +57,7 @@
         {% if site.footer == true %}
         <hr />
         <p style="text-align: center; margin-bottom: 10px">
-            <a href="{{ site.footer_url }}" style="color: black"><small>{{ site.footer_text }}</small></a>
+            <a href="{{ site.url }}{{ site.baseurl }}" style="color: black"><small>{{ site.footer_text }}</small></a>
         </p>
         {% endif %}
     </div>

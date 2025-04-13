@@ -6,9 +6,9 @@ permalink: /academic/
 
 I'm interested in a mix of machine learning, applied math stuff, and systems programming.
 
-Here are some classes I took while I was an undergrad at MIT:
+Here are some classes I took while at MIT:
 
-## Fall 2025
+## Fall 2024
 - 6.s894 - Accelerated Computing
     - one of the greatest classes ever made
 

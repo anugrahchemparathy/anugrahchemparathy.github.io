@@ -37,12 +37,8 @@ nav:
   - name: "Blog"
     link: "/blog"
 
-# Social profiles
-github_username: jekyll
-twitter_username: jekyllrb
-
 # URL settings
-url: ""  # Your actual URL when deployed
+url: "https://anugrahchemparathy.github.io/"  # Your actual URL when deployed
 baseurl: ""  # The subpath of your site
 
 # Build settings
