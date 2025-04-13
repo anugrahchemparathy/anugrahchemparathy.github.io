@@ -26,7 +26,7 @@ I originally created this website to equally and freely distribute all the inter
     * Handouts I wrote while peer mentoring at camp in 2021
         * [Camp 2021 - Office Hours 0: [Hard/Very Hard] organic problems](https://drive.google.com/file/d/1Yr7Xi_8xkBrbN4MQEztnjFsesEJ9PTWC/view?usp=sharing)
         * [Camp 2021 - Office Hours 1: Intro to camp style organic](https://drive.google.com/file/d/1I7OetpBCYGDnGKH9jLzZneXgVMO5vxcE/view?usp=sharing)
-        * [Camp 2021 - Office Hours 3: MCB Compilation](https://drive.google.com/file/d/16OIgIgvYUu538p_iMYOsRvwENsDg8-Ka/view?usp=sharing)
+        * [Camp 2021 - Office Hours 3: MCB Compilation](https://drive.google.com/file/d/1sCJd42_OrMEOwhVs0rImBy8zwUX7nljf/view?usp=sharing)
         * [Camp 2021 - Office Hours 4: Quantum Models](https://drive.google.com/file/d/1iKD8z1ffSdCrCa9jOlBsFZeiZmO0unxN/view?usp=sharing)
         * [Camp 2021 - Office Hours 5: Titrations](https://drive.google.com/file/d/16OIgIgvYUu538p_iMYOsRvwENsDg8-Ka/view?usp=sharing)
         * [Camp 2021 - Extra Problem: Artemisinin](https://drive.google.com/file/d/1tx-WZqPc7mwFKy5ov2lOAn14fcGwBWjl/view?usp=sharing)
